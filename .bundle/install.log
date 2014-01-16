@@ -1,0 +1,14 @@
+# Logfile created on 2014-01-13 22:16:48 -0800 by logger.rb/31641
+I, [2014-01-13T22:16:48.648824 #2459]  INFO -- : 0:  rake (10.1.1) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/rake-10.1.1.gemspec
+I, [2014-01-13T22:16:52.307181 #2459]  INFO -- : 0:  mime-types (2.0) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/mime-types-2.0.gemspec
+I, [2014-01-13T22:16:52.307753 #2459]  INFO -- : 0:  mini_portile (0.5.2) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/mini_portile-0.5.2.gemspec
+I, [2014-01-13T22:19:36.996089 #2459]  INFO -- : 0:  nokogiri (1.6.1) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/nokogiri-1.6.1.gemspec
+I, [2014-01-13T22:19:36.997011 #2459]  INFO -- : 0:  rack (1.5.2) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/rack-1.5.2.gemspec
+I, [2014-01-13T22:19:36.997672 #2459]  INFO -- : 0:  rack-test (0.6.2) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-13T22:19:36.998258 #2459]  INFO -- : 0:  xpath (2.0.0) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/xpath-2.0.0.gemspec
+I, [2014-01-13T22:19:36.998726 #2459]  INFO -- : 0:  capybara (2.2.1) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/capybara-2.2.1.gemspec
+I, [2014-01-13T22:19:39.562293 #2459]  INFO -- : 0:  cliver (0.3.2) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/cliver-0.3.2.gemspec
+I, [2014-01-13T22:19:42.021217 #2459]  INFO -- : 0:  multi_json (1.8.4) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/multi_json-1.8.4.gemspec
+I, [2014-01-13T22:19:43.857810 #2459]  INFO -- : 0:  websocket-driver (0.3.2) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/websocket-driver-0.3.2.gemspec
+I, [2014-01-13T22:19:46.497189 #2459]  INFO -- : 0:  poltergeist (1.5.0) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/poltergeist-1.5.0.gemspec
+I, [2014-01-13T22:19:46.498202 #2459]  INFO -- : 0:  bundler (1.5.1) from /Users/Thomas/.rvm/gems/ruby-1.9.3-p194/specifications/bundler-1.5.1.gemspec
